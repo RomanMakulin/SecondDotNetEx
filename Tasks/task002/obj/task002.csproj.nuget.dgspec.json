@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work_place\\SecondDotNetEx\\Tasks\\task001\\task001.csproj": {}
+    "C:\\work_place\\SecondDotNetEx\\Tasks\\task002\\task002.csproj": {}
   },
   "projects": {
-    "C:\\work_place\\SecondDotNetEx\\Tasks\\task001\\task001.csproj": {
+    "C:\\work_place\\SecondDotNetEx\\Tasks\\task002\\task002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work_place\\SecondDotNetEx\\Tasks\\task001\\task001.csproj",
-        "projectName": "task001",
-        "projectPath": "C:\\work_place\\SecondDotNetEx\\Tasks\\task001\\task001.csproj",
+        "projectUniqueName": "C:\\work_place\\SecondDotNetEx\\Tasks\\task002\\task002.csproj",
+        "projectName": "task002",
+        "projectPath": "C:\\work_place\\SecondDotNetEx\\Tasks\\task002\\task002.csproj",
         "packagesPath": "C:\\Users\\WayWayz\\.nuget\\packages\\",
-        "outputPath": "C:\\work_place\\SecondDotNetEx\\Tasks\\task001\\obj\\",
+        "outputPath": "C:\\work_place\\SecondDotNetEx\\Tasks\\task002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WayWayz\\AppData\\Roaming\\NuGet\\NuGet.Config"
