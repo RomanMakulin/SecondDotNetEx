@@ -1,0 +1,15 @@
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\bin\Debug\net6.0\task003.exe
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\bin\Debug\net6.0\task003.deps.json
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\bin\Debug\net6.0\task003.runtimeconfig.json
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\bin\Debug\net6.0\task003.dll
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\bin\Debug\net6.0\task003.pdb
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\task003.csproj.AssemblyReference.cache
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\task003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\task003.AssemblyInfoInputs.cache
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\task003.AssemblyInfo.cs
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\task003.csproj.CoreCompileInputs.cache
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\task003.dll
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\refint\task003.dll
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\task003.pdb
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\task003.genruntimeconfig.cache
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task003\obj\Debug\net6.0\ref\task003.dll
