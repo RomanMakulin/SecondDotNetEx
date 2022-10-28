@@ -3,3 +3,13 @@ D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\
 D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.AssemblyInfoInputs.cache
 D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.AssemblyInfo.cs
 D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.csproj.CoreCompileInputs.cache
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\bin\Debug\net6.0\task006.exe
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\bin\Debug\net6.0\task006.deps.json
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\bin\Debug\net6.0\task006.runtimeconfig.json
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\bin\Debug\net6.0\task006.dll
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\bin\Debug\net6.0\task006.pdb
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.dll
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\refint\task006.dll
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.pdb
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.genruntimeconfig.cache
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\ref\task006.dll
