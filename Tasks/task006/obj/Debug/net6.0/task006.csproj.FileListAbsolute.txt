@@ -1,0 +1,5 @@
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.csproj.AssemblyReference.cache
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.AssemblyInfoInputs.cache
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.AssemblyInfo.cs
+D:\Road to developer\IT_WorkPlace\SecondDotNetEx\Tasks\task006\obj\Debug\net6.0\task006.csproj.CoreCompileInputs.cache
