@@ -24,14 +24,17 @@ void SwitchRow(int[,] array)
     int temp = 0;
     for (int i = 0; i < array.GetLength(0); i++)
     {
+        temp = array[0, i];
+        array[0, i] = array[array.GetLength(0) - 1, i];
+        array[array.GetLength(0) - 1, i] = temp;
+    }
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        temp = array[0, i];
+        array[0, i] = array[array.GetLength(0) - 1, i];
+        array[array.GetLength(0) - 1, i] = temp;
         for (int k = 0; k < array.GetLength(1); k++)
         {
-            temp = array[0, k];
-            array[0, k] = array[array.GetLength(1)-1, k];
-            
-            array[array.GetLength(1)-1, k] = temp;
-
-
             System.Console.Write($"{array[i, k]} \t");
         }
         System.Console.WriteLine();
