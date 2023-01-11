@@ -1,6 +1,6 @@
 public static class Methods
 {
-    public static void Sorting(int[] array)
+    public static int[] Sorting(this int[] array)
     {
         for (int i = 0; i < array.Length - 1; i++)
         {
@@ -13,5 +13,6 @@ public static class Methods
             array[i] = array[pos];
             array[pos] = temp;
         }
+        return array;
     }
 }
