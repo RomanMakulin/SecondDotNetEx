@@ -7,7 +7,7 @@ public static class Methods
             int pos = i;
             for (int j = i + 1; j < array.Length; j++)
             {
-                if (array[j] < array[i]) pos = j;
+                if (array[j] < array[pos]) pos = j;
             }
             int temp = array[i];
             array[i] = array[pos];
